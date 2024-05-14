@@ -1,0 +1,19 @@
+<img style="width: 200px; height: 200px; border-radius: 9999px" src="https://via.placeholder.com/200x200" />
+<img style="width: 1460px; height: 533px" src="https://via.placeholder.com/1460x533" />
+<div style="color: white; font-size: 38px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Kateleen Tualla Ganzon</div>
+<div style="text-align: center; color: white; font-size: 28px; font-family: Montserrat; font-weight: 500; word-wrap: break-word">Artist, Cat-lover, Aspiring Techie</div>
+<div style="width: 1153px; height: 316px; background: #F6F6F6; box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 0.15)"></div>
+<div style="width: 100px; height: 100px; background: #698F5F; border-radius: 9999px"></div>
+<div style="width: 100px; height: 100px; position: relative">
+  <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; background: #698F5F; border-radius: 9999px"></div>
+  <img style="width: 50px; height: 50px; left: 25px; top: 25px; position: absolute" src="https://via.placeholder.com/50x50" />
+</div>
+<div style="color: black; font-size: 24px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Summary</div>
+<div style="color: black; font-size: 24px; font-family: Montserrat; font-weight: 700; word-wrap: break-word">Basic Information</div>
+<div style="width: 100px; height: 100px; position: relative">
+  <div style="width: 100px; height: 100px; left: 0px; top: 0px; position: absolute; background: #698F5F; border-radius: 9999px"></div>
+  <div style="width: 50px; height: 50px; left: 25px; top: 26px; position: absolute">
+    <img style="width: 50px; height: 50px; left: 0px; top: 0px; position: absolute" src="https://via.placeholder.com/50x50" />
+    <div style="width: 50px; height: 50px; left: 0px; top: -1px; position: absolute; background: white"></div>
+  </div>
+</div>
