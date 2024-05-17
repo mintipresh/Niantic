@@ -1,23 +1,174 @@
-<img src="\Downloads\Photo_Kateleen_Ganzon.jpg" alt="Kateleen Ganzon">
+<head>
+    <style>
+        .center-images {
+            text-align: center;
+        }
+        .center-images img {
+            margin: 10px; /* Optional: Adds space between the images */
+        }
+        
+    </style>
+</head>
+<body>
+    <p class="center-images">
+        <img src="Images/bulbasaur-11-juliart-jcmm-transparent.png" alt=" Bulbasuar with heart vines" style="height:125px;">
+</body>
+</html>
 
-<div style="text-align:center; font-size:28px; font-family: Montserrat">Kateleen Tualla Ganzon</div>
-    <div style="text-align:center">kateleen.ganzon@gmail.com | (661) 446-1127 | <a href="https://www.linkedin.com/in/kateleen-ganzon">LinkedIn</a></div>
+<div style="text-align:center; font-size:28px; font-family: Montserrat;">Kateleen Tualla Ganzon</div>
+
+    <div style="text-align:center"><a href="mailto:kateleen.ganzon@gmail.com">Email</a> | (661) 446-1127 | <a href="https://www.linkedin.com/in/kateleen-ganzon">LinkedIn</a></div>
 <div style="text-align:left; font-size:24px; font-family: Montserrat">Summary</div><hr>
-    <p>I have completed an online certification in Data Analytics through Google's Professional Certificate Program where I have acquired expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau alongside continuous professional development through workshops and networking.</p>
+    <p>As someone with a non-traditional background, my goal in this program is to develop new skills and build connections. I am excited further expand my knowledge coding in HTML and execute beautiful content while understanding the effort it takes to perfect them. Other than the learning aspect of the program, I hope to meet new faces who share the same goals and be able to collaborate thoughout this journey. As a fan of Niantic, through their mobile game Pokémon GO, I stand by their mission to use technology to enrich human experiences and to get people moving. It is one of the few things that connects me with others in my little city! </p>
+    <p>I am in the process of a career change and currently hold  certification in Data Analytics through Google's Professional Certificate Program. Though this, I was able to collaborate with others in learning data analytic skills, such as Python and Tableau,  despite being online for the whole apprenticeship. I am excited to bring in radiant energy into the space combined with team-building qualities.</p>
+    <p> </p>
 
  <div style="text-align:left; font-size:24px; font-family: Montserrat">Education</div><hr>
-    <div style="font-weight: bold">University of California, Los Angeles</div>
-            <p>Bachelor of Arts in Psychology, Minor in Food Studies</p>
-    <div style="font-weight: bold">COOP Careers</div>
-            <p>Data Analytics Certification</p>
- 
+
+  <style>
+    table {
+      width: 100%; /* expands the table at its full width */
+    }
+    
+    td, th {
+      border:none;
+      text-align: left;
+      padding: 8px;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>Area of Study</th>
+        <th>Date of Completion</th>
+      </tr>
+      <tr>
+        <td>University of California, Los Angeles</td>
+        <td><dl>
+            <dt>Bachelors of Arts in Psychology, Minor in Food Studies</dt>
+            <dd>► Developed a broad understanding of human behavior as well as the skills to understand and interpret research findings concerning human behavior</dd>
+            <dd>► Studied of the role of food in multiple complex aspects of life builds bridges across all areas of the academy, including arts, anthropology, environment and sustainability, folklore and mythology, and other fields</dd>
+          </dl></td>
+        <td>June 2021</td>
+      </tr>
+      <tr>
+        <td>COOP Careers</td>
+        <td><dl>
+            <dt>Certificate in Data Analytics</dt>
+            <dd>► Acquired expertise in data cleaning, transformation, analysis, and visualization using SQL, Python, and Tableau alongside continuous professional development through workshops and networking</dd>
+          </dl></td>
+        <td>December 2023</td>
+      </tr>
+    </table>
+    
+    </body>
+    </html>
+<p> </p>
+
 <div style="text-align:left; font-size:24px; font-family: Montserrat">Work Experience</div><hr>
-    <div style="font-weight: bold">ACES: Autism Comprehensive Educational Services</div><div style="text-align:right; font-weight: bold">June 2022 - Present</div>
-    <p>Registered Behavioral Technician (RBT)</p>
-    <div style="font-weight: bold">Wonderful College Prep Academy</div><div style="text-align: right; font-weight: bold">October 2021 - June 2022</div>
-    <p>Small Group Instructor</p>
+        </head>
+        <body>
+    <table>
+        <tr>
+            <div style="float:left;width:50%; font-weight: bold;">ACES: Autism Comprehensive Educational Services</div> <!-- Creates a mini table that separates headers-->
+            <div style="float:right; font-weight: bold;">June 2022 - Present</div>
+        </tr>
+        <tr>
+    </table>
+    <dl>Registered Behavioral Technician (RBT)</dl> <!-- Description list - creates a tabbed list underneath the category -->
+        <dd>► Optimize treatment by managing data in CentralReach and utilizing session-based line graphs; achieved a 30% reduction in treatment modification time and improved client outcomes by 25% within three months</dd>
+        <dd>► Execute intervention plans addressing maladaptive behaviors</dd>
+        <dd>► Implement seven behavior intervention strategies toward behavioral goals, leading to a mastery level of 70% spanning 10 sessions</dd>
+        <dd>► Deliver comprehensive care to foster positive and supportive relationships with clients' families to ensure communication and collaboration</dd>
+    <p> </p>
+    <table>
+        <tr>
+            <div style="float:left;width:50%; font-weight: bold;">Wonderful College Prep Academy</div> 
+            <div style="float:right; font-weight: bold;">October 2021 - June 2022</div>
+        </tr>
+        <tr>
+    </table>
+    <dl>Small Group Instructor</dl>
+        <dd>► Boosted student engagement through parent involvement and increased participation by 10%</dd>
+        <dd>►  Facilitated small group meetings between students which reduced absentees by 12%</dd>
+        <dd>►  Substituted for absent teachers and ensured continuity of lesson plans</dd>
+    <p></p></hr>
+    
     
  <div style="text-align:left; font-size:24px; font-family: Montserrat">Relevant Skills and Experience</div><hr>
-    <div style="font-weight: bold">UCLA Fresh Produce Art</div><div style="text-align: right; font-weight: bold">June 2020 - June 2021</div>
-    <p>Webmaster</p>
-
+        </head>
+        <body>
+    <table>
+        <tr>
+            <div style="float:left;width:50%; font-weight: bold;">UCLA Fresh Produce Art</div>
+            <div style="float:right; font-weight: bold;">June 2020 - June 2021</div>
+        </tr>
+        <tr>
+        </table>
+    <dl>Webmaster</dl>
+        <dd>► Designed club website and implemented a user-friendly interface to improve web traffic by 10%</dd>
+        <dd>► Promoted club events by sharing videos on social media platforms weekly to a platform of over 200 followers</dd>
+        <dd>► Streamlined files and record management in Google Drive to facilitate seamless team access and collaboration</dd>
+    <p></p>
+<style> /* styling the table */
+    table {
+      border-collapse:collapse;
+      width: 100%;
+    }
+    
+    td, th {
+      border:1px #dcdcdc; border-style: solid;
+      text-align: left;
+      padding: 6px;
+    }
+    </style>
+    </head>
+    <body>
+    
+    <table>
+      <tr>
+        <th>Programming Languages & Visualization Skills</th> <!--header of table -->
+        <th>Desktop Publishing & Web Design</th>
+        <th>Interests</th>
+      </tr>
+      <tr>
+        <td>► Python</td>
+        <td>► Figma</td>
+        <td>► UX Research and UI Design</td>
+    </tr>
+    <tr>
+      <td>► SQL</td>
+      <td>► Adobe InDesign</td>
+      <td>► Graphic Design and Digital/Traditional Art</td>
+    </tr>
+    <tr>
+      <td>► Tableau</td>
+      <td>► Github</td>
+      <td>► Cooking</td>
+    </tr>
+    <tr>
+        <td>► Excel</td>
+        <td>► Sublime</td>
+        <td>► Pokémon GO</td>
+    </tr></table>
+    <!--this creates note in HTML code-->
+    <!--"/**/ creates code in CSS-->
+<p></p>
+<style>
+    .container {
+    display:grid;
+    grid-template-columns:34% 34% 34%;
+  
+  }
+        
+    </style>
+    <body>
+      <div class="container">
+        <div class="image"> <img src="Images/855f72cb-70cb-47f4-805d-46a9b231e8a6.webp" alt="Quby working on the computer" style="height: 120px;"/> </div> 
+        <div class="image"> <img src="Images/chiikawa.png" alt="Chiikawa giving thumbs-up" style="height: 120px; text-align: center"/> </div> 
+       <div class="image"> <img src="Images/tenornoods.gif" alt="Little bird eating noodles passionately" style="height: 120px; float: right"/> </div> 
+      </div>
+    </body>
