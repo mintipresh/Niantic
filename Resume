@@ -19,8 +19,8 @@
 
     <div style="text-align:center"><a href="mailto:kateleen.ganzon@gmail.com">Email</a> | (661) 446-1127 | <a href="https://www.linkedin.com/in/kateleen-ganzon">LinkedIn</a></div>
 <div style="text-align:left; font-size:24px; font-family: Montserrat">Summary</div><hr>
-    <p>As someone with a non-traditional background, my goal in this program is to develop new skills and build connections. I am excited further expand my knowledge coding in HTML and execute beautiful content while understanding the effort it takes to perfect them. Other than the learning aspect of the program, I hope to meet new faces who share the same goals and be able to collaborate thoughout this journey. As a fan of Niantic, through their mobile game Pokémon GO, I stand by their mission to use technology to enrich human experiences and to get people moving. It is one of the few things that connects me with others in my little city! </p>
-    <p>I am in the process of a career change and currently hold  certification in Data Analytics through Google's Professional Certificate Program. Though this, I was able to collaborate with others in learning data analytic skills, such as Python and Tableau,  despite being online for the whole apprenticeship. I am excited to bring in radiant energy into the space combined with team-building qualities.</p>
+    <p>As a fan of Niantic, through their mobile game Pokémon GO, I stand by their mission to use technology to enrich human experiences and to get people moving. It is one of the few things that connects me with others in my little city! I am in the process of a career change and currently hold  certification in Data Analytics through Google's Professional Certificate Program. Though this, I was able to collaborate with others in learning data analytic skills, such as Python, SQL, and Tableau, despite being online for the whole apprenticeship. </p>
+    <p>With a non-traditional background, my goal in this program is to develop new skills and build connections. I am excited further expand my knowledge coding in HTML and execute beautiful content while understanding the effort it takes to perfect them. Other than the learning aspect of the program, I hope to meet new faces who share the same goals and be able to collaborate thoughout this journey. I am excited to bring in radiant energy into the space combined with team-building qualities.</p>
     <p> </p>
 
  <div style="text-align:left; font-size:24px; font-family: Montserrat">Education</div><hr>
@@ -97,21 +97,28 @@
         <dd>►  Substituted for absent teachers and ensured continuity of lesson plans</dd>
     <p></p></hr>
     
-    
  <div style="text-align:left; font-size:24px; font-family: Montserrat">Relevant Skills and Experience</div><hr>
         </head>
         <body>
     <table>
         <tr>
-            <div style="float:left;width:50%; font-weight: bold;">UCLA Fresh Produce Art</div>
-            <div style="float:right; font-weight: bold;">June 2020 - June 2021</div>
+            <div style="float:left;width:50%; font-weight: bold;">UCLA</div>
+            <div style="float:right; font-weight: bold;">August 2017 - June 2021</div>
         </tr>
         <tr>
         </table>
-    <dl>Webmaster</dl>
+    <dl>UCLA Fresh Produce Art - Webmaster</dl>
         <dd>► Designed club website and implemented a user-friendly interface to improve web traffic by 10%</dd>
         <dd>► Promoted club events by sharing videos on social media platforms weekly to a platform of over 200 followers</dd>
         <dd>► Streamlined files and record management in Google Drive to facilitate seamless team access and collaboration</dd>
+    </tr>
+    <tr>
+    </table>
+<dl>LIFESCI 30A & 30B</dl>
+    <dd>► Learned the programming language Python to write simple programs to simulate differential equation models using Euler's method</dd>
+    <dd>► Continued to translate biological systems into mathema±cal models, in Python, and discuss oscillatons, chaos, and linear algebra</dd>
+    </dd>
+    </tr>
     <p></p>
 <style> /* styling the table */
     table {
@@ -158,17 +165,20 @@
     <!--"/**/ creates code in CSS-->
 <p></p>
 <style>
-    .container {
-    display:grid;
-    grid-template-columns:34% 34% 34%;
-  
+    .skills {
+    padding: 30px;
+        display:flex;
+        align-items:center;
+        width: 100%;
+        justify-content: space-between;
+       
   }
         
     </style>
     <body>
-      <div class="container">
+      <div class="skills">
         <div class="image"> <img src="Images/855f72cb-70cb-47f4-805d-46a9b231e8a6.webp" alt="Quby working on the computer" style="height: 120px;"/> </div> 
         <div class="image"> <img src="Images/chiikawa.png" alt="Chiikawa giving thumbs-up" style="height: 120px; text-align: center"/> </div> 
-       <div class="image"> <img src="Images/tenornoods.gif" alt="Little bird eating noodles passionately" style="height: 120px; float: right"/> </div> 
-      </div>
-    </body>
+       <div class="image"> <img src="Images/lets eat.png" alt="Three friends eating rice balls" style="height: 120px; float: right"/> </div> 
+    <p></p>
+    </div>
